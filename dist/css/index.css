@@ -1,0 +1,117 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center; 
+    justify-content: center;
+    display:flex;
+    flex-direction: column;
+}
+
+
+.book {
+    background-color: #F1ECCE;
+    justify-content: center;
+    display:flex;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+
+}
+
+.bookTitle{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    color: #ED6A5A;
+}
+
+.bookRating {
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    color: #577590;
+
+}
+
+.v1Button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    cursor: pointer;
+    background-color: #E2B538;
+    border: #8ca9df;
+    border-radius: 50%;
+    color: black;
+  }
+  
+  .v2Button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    cursor: pointer;
+    background-color: #E2B538;
+    border: #8ca9df;
+    border-radius: 50%;
+    color: black;
+  }
+  
+  .v3Button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    cursor: pointer;
+    background-color: #E2B538;
+    border: #8ca9df;
+    border-radius: 50%;
+    color: black;
+  }
+  
+
+  
+  .v4Button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    cursor: pointer;
+    background-color: #E2B538;
+    border: #8ca9df;
+    border-radius: 50%;
+    color: black;
+  }
+  
+ 
+  
+  .v5Button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    cursor: pointer;
+    background-color: #E2B538;
+    border: #8ca9df;
+    border-radius: 50%;
+    color: black;
+  }
+  
+ 

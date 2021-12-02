@@ -1,0 +1,44 @@
+/*configuracion general */
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center; 
+    justify-content: center;
+    display:flex;
+    flex-direction: column; 
+  }
+
+/*caja de texto del email */
+#emailText
+{
+    margin: 10px;
+    height: 10px;
+    border: 1px solid #8ca9df;
+    border-radius: 4px;
+    padding: 10px;  
+}
+
+/*caja de texto del nombre del email  */
+#passwordText
+{
+    margin: 10px; 
+    height: 10px;
+    border: 1px solid #8ca9df;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/*boton de iniciar sesion */
+#loginButton {
+    margin: 20px;
+    height: 40px;
+    cursor: pointer;
+    background-color: #8ca9df;
+    border: #8ca9df;
+    border-radius: 4px;
+    padding: 10px;
+    color: azure;
+  }
+
+
